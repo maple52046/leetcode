@@ -2,3 +2,5 @@
 *.pyc
 *.tmp
 *.bak
+*.class
+.vscode/

@@ -1,11 +1,10 @@
-# My LeetCode Solution
+# My LeetCode Solutions
 
-This project is my source code used to solve the programming questions on LeetCode.
-
+This project contains my source code for solving the problems on [LeetCode](https://leetcode.com/).
 
 # Python
 
-| Problem | My solution | Submission status | Reference |
+| Problem | My Solution | Submission Status | Reference |
 |:--------|:------------|:------------------|-----------|
 | [Product of Array Except Self][14] | [Click here](/python/product_of_array_except_self.py) | [Accepted, Runtime: 100 ms][15] | [Link][16] |
 | [Find the Duplicate Number][10] | [Click here](/python/find_the_duplicate_number/ans1.py) | [Accepted, Runtime: 48 ms][11] | |
@@ -16,6 +15,20 @@ This project is my source code used to solve the programming questions on LeetCo
 | [Add Two Numbers][3] | [Click here](/python/add_two_numbers.py) | [Accepted, Runtime: 109 ms][4] | |
 | [Two Sum][1] | [Click here](/python/two_sum.py) | [Accepted, Runtime: 1525 ms][2] | |
 
+# Java
+
+| Problem | My solution | Submission status | Reference |
+|:-------:|:-----------:|:-----------------:|:---------:|
+| [Reverse Integer][17] | [Click here](/java/ReverseInteger/MainClass.java) | [Accepted, Runtime: 31 ms][18] | |
+
+---
+
+### Unfinished
+
+- [Freedom Trail](/python/FreedomTrail.py)
+
+[18]: https://leetcode.com/submissions/detail/197759195/
+[17]: https://leetcode.com/problems/reverse-integer/
 [16]: https://leetcode.com/problems/product-of-array-except-self/discuss/65622/Simple-Java-solution-in-O(n)-without-extra-space
 [15]: https://leetcode.com/submissions/detail/193520424/
 [14]: https://leetcode.com/problems/product-of-array-except-self/
