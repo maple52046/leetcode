@@ -18,7 +18,9 @@ This project contains my source code for solving the problems on [LeetCode](http
 # Java
 
 | Problem | My solution | Submission status | Reference |
-|:-------:|:-----------:|:-----------------:|:---------:|
+|:--------|:------------|:------------------|:---------:|
+| [Merge Two Sorted Lists][27] | [Click here](/java/MergeTwoSortedLists/MainClass.java) | [Accepted, Runtime: 13ms][28] |
+| [Valid Parentheses][25] | [Click here](/java/ValidParentheses/MainClass.java) | [Accepted, Runtime: 5ms][26] |
 | [Longest Common Prefix][23] | [Click here](/java/LongestCommonPrefix/MainClass.java) | [Accepted, Runtime: 14ms][24] |
 | [Roman to Integer][21] | [Click here](/java/RomanToInteger/MainClass.java) | [Accepted, Runtime: 72 ms][22] |
 | [Palindrome Number][19] | [Click here](/java/PalindromeNumber/Main.java) | [Accepted, Runtime: 96 ms][20] | |
@@ -30,6 +32,10 @@ This project contains my source code for solving the problems on [LeetCode](http
 
 - [Freedom Trail](/python/FreedomTrail.py)
 
+[28]: https://leetcode.com/submissions/detail/202687558/
+[27]: https://leetcode.com/problems/merge-two-sorted-lists/
+[26]: https://leetcode.com/submissions/detail/202683113/
+[25]: https://leetcode.com/problems/valid-parentheses/
 [24]: https://leetcode.com/submissions/detail/202463412/
 [23]: https://leetcode.com/problems/longest-common-prefix/
 [22]: https://leetcode.com/submissions/detail/202451714/
