@@ -19,10 +19,12 @@ This project contains my source code for solving the problems on [LeetCode](http
 
 | Problem | My solution | Submission status | Reference |
 |:--------|:------------|:------------------|:---------:|
-| [Merge Two Sorted Lists][27] | [Click here](/java/MergeTwoSortedLists/MainClass.java) | [Accepted, Runtime: 13ms][28] |
-| [Valid Parentheses][25] | [Click here](/java/ValidParentheses/MainClass.java) | [Accepted, Runtime: 5ms][26] |
-| [Longest Common Prefix][23] | [Click here](/java/LongestCommonPrefix/MainClass.java) | [Accepted, Runtime: 14ms][24] |
-| [Roman to Integer][21] | [Click here](/java/RomanToInteger/MainClass.java) | [Accepted, Runtime: 72 ms][22] |
+| [Remove Element][31] | [Click](/java/RemoveElement/MainClass.java) | [Accepted, Runtime: 6ms][32] | |
+| [Remove Duplicates from Sorted Array][29] | [Click here](/java/RemoveDumplicatesFromSortedArray/MainClass.java) | [Accepted, Runtime: 6ms][30] | |
+| [Merge Two Sorted Lists][27] | [Click here](/java/MergeTwoSortedLists/MainClass.java) | [Accepted, Runtime: 13ms][28] | |
+| [Valid Parentheses][25] | [Click here](/java/ValidParentheses/MainClass.java) | [Accepted, Runtime: 5ms][26] | |
+| [Longest Common Prefix][23] | [Click here](/java/LongestCommonPrefix/MainClass.java) | [Accepted, Runtime: 14ms][24] | |
+| [Roman to Integer][21] | [Click here](/java/RomanToInteger/MainClass.java) | [Accepted, Runtime: 72 ms][22] | |
 | [Palindrome Number][19] | [Click here](/java/PalindromeNumber/Main.java) | [Accepted, Runtime: 96 ms][20] | |
 | [Reverse Integer][17] | [Click here](/java/ReverseInteger/MainClass.java) | [Accepted, Runtime: 31 ms][18] | |
 
@@ -32,6 +34,10 @@ This project contains my source code for solving the problems on [LeetCode](http
 
 - [Freedom Trail](/python/FreedomTrail.py)
 
+[32]: https://leetcode.com/submissions/detail/202953855/
+[31]: https://leetcode.com/problems/remove-element/
+[30]: https://leetcode.com/submissions/detail/202948258/
+[29]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [28]: https://leetcode.com/submissions/detail/202687558/
 [27]: https://leetcode.com/problems/merge-two-sorted-lists/
 [26]: https://leetcode.com/submissions/detail/202683113/
