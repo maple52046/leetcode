@@ -6,6 +6,7 @@ This project contains my source code for solving the problems on [LeetCode](http
 
 | Problem | My Solution | Submission Status | Reference |
 |:--------|:------------|:------------------|-----------|
+| [Integer to Roman][33] | [Click here](/python/IntegerToRoman.py) | [Accepted, Runtime: 128 ms][34] | |
 | [Product of Array Except Self][14] | [Click here](/python/product_of_array_except_self.py) | [Accepted, Runtime: 100 ms][15] | [Link][16] |
 | [Find the Duplicate Number][10] | [Click here](/python/find_the_duplicate_number/ans1.py) | [Accepted, Runtime: 48 ms][11] | |
 | - | [Click here](/python/find_the_duplicate_number/ans2.py) | [Accepted, Runtime: 40 ms][12] | [Link][13] |
@@ -19,8 +20,8 @@ This project contains my source code for solving the problems on [LeetCode](http
 
 | Problem | My solution | Submission status | Reference |
 |:--------|:------------|:------------------|:---------:|
-| [Remove Element][31] | [Click](/java/RemoveElement/MainClass.java) | [Accepted, Runtime: 6ms][32] | |
-| [Remove Duplicates from Sorted Array][29] | [Click here](/java/RemoveDumplicatesFromSortedArray/MainClass.java) | [Accepted, Runtime: 6ms][30] | |
+| [Remove Element][31] | [Click here](/java/RemoveElement/MainClass.java) | [Accepted, Runtime: 6ms][32] | |
+| [Remove Duplicates from Sorted Array][29] | [Click here](/java/RemoveDuplicatesFromSortedArray/MainClass.java) | [Accepted, Runtime: 6ms][30] | |
 | [Merge Two Sorted Lists][27] | [Click here](/java/MergeTwoSortedLists/MainClass.java) | [Accepted, Runtime: 13ms][28] | |
 | [Valid Parentheses][25] | [Click here](/java/ValidParentheses/MainClass.java) | [Accepted, Runtime: 5ms][26] | |
 | [Longest Common Prefix][23] | [Click here](/java/LongestCommonPrefix/MainClass.java) | [Accepted, Runtime: 14ms][24] | |
@@ -34,6 +35,8 @@ This project contains my source code for solving the problems on [LeetCode](http
 
 - [Freedom Trail](/python/FreedomTrail.py)
 
+[34]: https://leetcode.com/submissions/detail/211313590/
+[33]: https://leetcode.com/problems/integer-to-roman/
 [32]: https://leetcode.com/submissions/detail/202953855/
 [31]: https://leetcode.com/problems/remove-element/
 [30]: https://leetcode.com/submissions/detail/202948258/
