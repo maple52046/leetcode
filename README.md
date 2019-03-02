@@ -2,10 +2,17 @@
 
 This project contains my source code for solving the problems on [LeetCode](https://leetcode.com/).
 
+| Problem | My Solution | Submission Status | Reference |
+|:--------|:------------|:------------------|-----------|
+| [Integer to English Words][35] | [Click here](/python/IntegerToEnglishWords.py)![](https://www.python.org/static/img/python-logo.png) | [Accepted, Runtime: 48 ms][36] | |
+| [Integer to Roman][33] | [Click here](/python/IntegerToRoman.py)![](https://www.python.org/static/img/python-logo.png) | [Accepted, Runtime: 128 ms][34] | |
+| | [Remove Element][31] | [Click here](/java/RemoveElement/MainClass.java)![](https://camo.githubusercontent.com/0fb6c3a56d588875bbab00cbc267f4ef85ea0c23/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672f33303070782d4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672e706e67) | [Accepted, Runtime: 6ms][32] | |
+
 # Python
 
 | Problem | My Solution | Submission Status | Reference |
 |:--------|:------------|:------------------|-----------|
+| [Integer to English Words][35] | [Click here](/python/IntegerToEnglishWords.py) | [Accepted, Runtime: 48 ms][36] | |
 | [Integer to Roman][33] | [Click here](/python/IntegerToRoman.py) | [Accepted, Runtime: 128 ms][34] | |
 | [Product of Array Except Self][14] | [Click here](/python/product_of_array_except_self.py) | [Accepted, Runtime: 100 ms][15] | [Link][16] |
 | [Find the Duplicate Number][10] | [Click here](/python/find_the_duplicate_number/ans1.py) | [Accepted, Runtime: 48 ms][11] | |
@@ -35,6 +42,8 @@ This project contains my source code for solving the problems on [LeetCode](http
 
 - [Freedom Trail](/python/FreedomTrail.py)
 
+[36]: https://leetcode.com/submissions/detail/211565586/
+[35]: https://leetcode.com/problems/integer-to-english-words/submissions/
 [34]: https://leetcode.com/submissions/detail/211313590/
 [33]: https://leetcode.com/problems/integer-to-roman/
 [32]: https://leetcode.com/submissions/detail/202953855/
