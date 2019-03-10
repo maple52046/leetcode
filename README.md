@@ -1,14 +1,6 @@
 # My LeetCode Solutions
 
-This project contains my source code for solving the problems on [LeetCode](https://leetcode.com/).
-
-| Problem | My Solution | Submission Status | Reference |
-|:--------|:------------|:------------------|-----------|
-| [Integer to English Words][35] | [Click here](/python/IntegerToEnglishWords.py)![](https://www.python.org/static/img/python-logo.png) | [Accepted, Runtime: 48 ms][36] | |
-| [Integer to Roman][33] | [Click here](/python/IntegerToRoman.py)![](https://www.python.org/static/img/python-logo.png) | [Accepted, Runtime: 128 ms][34] | |
-| | [Remove Element][31] | [Click here](/java/RemoveElement/MainClass.java)![](https://camo.githubusercontent.com/0fb6c3a56d588875bbab00cbc267f4ef85ea0c23/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672f33303070782d4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672e706e67) | [Accepted, Runtime: 6ms][32] | |
-
-# Python
+## Python
 
 | Problem | My Solution | Submission Status | Reference |
 |:--------|:------------|:------------------|-----------|
@@ -23,7 +15,7 @@ This project contains my source code for solving the problems on [LeetCode](http
 | [Add Two Numbers][3] | [Click here](/python/add_two_numbers.py) | [Accepted, Runtime: 109 ms][4] | |
 | [Two Sum][1] | [Click here](/python/two_sum.py) | [Accepted, Runtime: 1525 ms][2] | |
 
-# Java
+## Java
 
 | Problem | My solution | Submission status | Reference |
 |:--------|:------------|:------------------|:---------:|
@@ -36,12 +28,20 @@ This project contains my source code for solving the problems on [LeetCode](http
 | [Palindrome Number][19] | [Click here](/java/PalindromeNumber/Main.java) | [Accepted, Runtime: 96 ms][20] | |
 | [Reverse Integer][17] | [Click here](/java/ReverseInteger/MainClass.java) | [Accepted, Runtime: 31 ms][18] | |
 
+## Swift
+
+| Problem | My Solution | Submission Status | Reference |
+|:--------|:------------|:------------------|-----------|
+| [Merge k Sorted Lists][37] | [Click](/swift/Merge_k_Sorted_Lists/Solution.swift) | [Accepted, Runtime: 100ms][38] | |
+
 ---
 
 ### Unfinished
 
 - [Freedom Trail](/python/FreedomTrail.py)
 
+[38]: https://leetcode.com/submissions/detail/213502273/
+[37]: https://leetcode.com/problems/merge-k-sorted-lists/
 [36]: https://leetcode.com/submissions/detail/211565586/
 [35]: https://leetcode.com/problems/integer-to-english-words/submissions/
 [34]: https://leetcode.com/submissions/detail/211313590/
