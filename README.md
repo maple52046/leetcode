@@ -32,7 +32,8 @@
 
 | Problem | My Solution | Submission Status | Reference |
 |:--------|:------------|:------------------|-----------|
-| [Merge k Sorted Lists][37] | [Click](/swift/Merge_k_Sorted_Lists/Solution.swift) | [Accepted, Runtime: 100ms][38] | |
+| [Reverse Nodes in k-Group][39] | [Click here](/swift/Reverse_Nodes_in_k-Group/Solution.swift) | [Accepted, Runtime: 40ms][40] | Runtime: 40 ms, faster than 100.00% of Swift online submissions|
+| [Merge k Sorted Lists][37] | [Click here](/swift/Merge_k_Sorted_Lists/Solution.swift) | [Accepted, Runtime: 100ms][38] | |
 
 ---
 
@@ -40,6 +41,8 @@
 
 - [Freedom Trail](/python/FreedomTrail.py)
 
+[40]: https://leetcode.com/submissions/detail/213753940/
+[39]: https://leetcode.com/problems/reverse-nodes-in-k-group/
 [38]: https://leetcode.com/submissions/detail/213502273/
 [37]: https://leetcode.com/problems/merge-k-sorted-lists/
 [36]: https://leetcode.com/submissions/detail/211565586/
