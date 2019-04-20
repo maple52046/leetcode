@@ -1,5 +1,9 @@
 # My LeetCode Solutions
 
+- [Two Sum][1]:
+  - **Go**: [src](/src/1/two-sum.go), [submission][41]
+  - Python: [src](/python/two_sum.py), [submission][2]
+
 ## Python
 
 | Problem | My Solution | Submission Status | Reference |
@@ -13,7 +17,6 @@
 | - | [Click here](/python/median_of_sorted_arrays/binary_search.py)(Binary search) | [Accepted, Runtime: 368 ms][8] | |
 | [Longest Substring Without Repeating Characters][5] | [Click here](/python/longest_substring_without_repeat_char.py) | [Accepted, Runtime: 119 ms][6] | |
 | [Add Two Numbers][3] | [Click here](/python/add_two_numbers.py) | [Accepted, Runtime: 109 ms][4] | |
-| [Two Sum][1] | [Click here](/python/two_sum.py) | [Accepted, Runtime: 1525 ms][2] | |
 
 ## Java
 
@@ -41,6 +44,7 @@
 
 - [Freedom Trail](/python/FreedomTrail.py)
 
+[41]: https://leetcode.com/submissions/detail/223736595/
 [40]: https://leetcode.com/submissions/detail/213753940/
 [39]: https://leetcode.com/problems/reverse-nodes-in-k-group/
 [38]: https://leetcode.com/submissions/detail/213502273/
