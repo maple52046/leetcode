@@ -1,10 +1,16 @@
 # My LeetCode Solutions
 
-- [3 Sum][42]:
-  - Go: [src](/src/15/three-sum.go), [submission][43]
+- [Merge k Sorted Lists][37]:
+  - Swift: [src](/src/23/Solution.swfit), [submission][38]
+- [Reverse Nodes in k-Group][39]:
+  - **Swift**: [src](/src/39/Solution.swift), [submission][40]
 - [Two Sum][1]:
   - **Go**: [src](/src/1/two-sum.go), [submission][41]
   - Python: [src](/python/two_sum.py), [submission][2]
+- [3Sum][42]:
+  - Go: [src](/src/15/three-sum.go), [submission][43]
+
+---
 
 ## Python
 
@@ -33,12 +39,6 @@
 | [Palindrome Number][19] | [Click here](/java/PalindromeNumber/Main.java) | [Accepted, Runtime: 96 ms][20] | |
 | [Reverse Integer][17] | [Click here](/java/ReverseInteger/MainClass.java) | [Accepted, Runtime: 31 ms][18] | |
 
-## Swift
-
-| Problem | My Solution | Submission Status | Reference |
-|:--------|:------------|:------------------|-----------|
-| [Reverse Nodes in k-Group][39] | [Click here](/swift/Reverse_Nodes_in_k-Group/Solution.swift) | [Accepted, Runtime: 40ms][40] | Runtime: 40 ms, faster than 100.00% of Swift online submissions|
-| [Merge k Sorted Lists][37] | [Click here](/swift/Merge_k_Sorted_Lists/Solution.swift) | [Accepted, Runtime: 100ms][38] | |
 
 ---
 
