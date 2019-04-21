@@ -1,5 +1,7 @@
 # My LeetCode Solutions
 
+- [3 Sum][42]:
+  - Go: [src](/src/15/three-sum.go), [submission][43]
 - [Two Sum][1]:
   - **Go**: [src](/src/1/two-sum.go), [submission][41]
   - Python: [src](/python/two_sum.py), [submission][2]
@@ -44,6 +46,8 @@
 
 - [Freedom Trail](/python/FreedomTrail.py)
 
+[43]: https://leetcode.com/submissions/detail/223938796/
+[42]: https://leetcode.com/problems/3sum/
 [41]: https://leetcode.com/submissions/detail/223736595/
 [40]: https://leetcode.com/submissions/detail/213753940/
 [39]: https://leetcode.com/problems/reverse-nodes-in-k-group/
