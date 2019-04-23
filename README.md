@@ -4,6 +4,8 @@
   - Swift: [src](/src/23/Solution.swfit), [submission][38]
 - [Reverse Nodes in k-Group][39]:
   - **Swift**: [src](/src/39/Solution.swift), [submission][40]
+- [String to Integer][44]:
+  - **Go**: [src](/src/8/string-to-integer.go), [submission][45]
 - [Two Sum][1]:
   - **Go**: [src](/src/1/two-sum.go), [submission][41]
   - Python: [src](/python/two_sum.py), [submission][2]
@@ -46,6 +48,8 @@
 
 - [Freedom Trail](/python/FreedomTrail.py)
 
+[45]: https://leetcode.com/submissions/detail/224429086/
+[44]: https://leetcode.com/problems/string-to-integer-atoi/
 [43]: https://leetcode.com/submissions/detail/223938796/
 [42]: https://leetcode.com/problems/3sum/
 [41]: https://leetcode.com/submissions/detail/223736595/
