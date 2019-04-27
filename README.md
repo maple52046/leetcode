@@ -6,6 +6,7 @@
   - **Swift**: [src](/src/39/Solution.swift), [submission][40]
 - [String to Integer][44]:
   - **Go**: [src](/src/8/string-to-integer.go), [submission][45]
+- [Two City Scheduling][]
 - [Two Sum][1]:
   - **Go**: [src](/src/1/two-sum.go), [submission][41]
   - Python: [src](/python/two_sum.py), [submission][2]
