@@ -1,58 +1,38 @@
 # My LeetCode Solutions
 
-- [Group the People Given the Group Size They Belong To][48]
-  - **Go**: [src](/src/1282/main.go), [submission][49]
-- [Defanging an IP Address][50]
-  - **Go**: [src](/src/1108/main.go), [submission][51]
-- [Merge k Sorted Lists][37]:
-  - Swift: [src](/src/23/Solution.swfit), [submission][38]
-- [Reverse Nodes in k-Group][39]:
-  - **Swift**: [src](/src/39/Solution.swift), [submission][40]
-- [String to Integer][44]:
-  - **Go**: [src](/src/8/string-to-integer.go), [submission][45]
-- [Two City Scheduling][46]:
-  - **Go**: [src](/src/1029/solution.go), [submission][47]
-- [Two Sum][1]:
-  - **Go**: [src](/src/1/two-sum.go), [submission][41]
-  - Python: [src](/python/two_sum.py), [submission][2]
-- [3Sum][42]:
-  - Go: [src](/src/15/three-sum.go), [submission][43]
 
----
-
-## Python
-
-| Problem | My Solution | Submission Status | Reference |
-|:--------|:------------|:------------------|-----------|
-| [Integer to English Words][35] | [Click here](/python/IntegerToEnglishWords.py) | [Accepted, Runtime: 48 ms][36] | |
-| [Integer to Roman][33] | [Click here](/python/IntegerToRoman.py) | [Accepted, Runtime: 128 ms][34] | |
-| [Product of Array Except Self][14] | [Click here](/python/product_of_array_except_self.py) | [Accepted, Runtime: 100 ms][15] | [Link][16] |
-| [Find the Duplicate Number][10] | [Click here](/python/find_the_duplicate_number/ans1.py) | [Accepted, Runtime: 48 ms][11] | |
-| - | [Click here](/python/find_the_duplicate_number/ans2.py) | [Accepted, Runtime: 40 ms][12] | [Link][13] |
-| [Median of Two Sorted Arrays][7] | [Click here](/python/median_of_sorted_arrays/merge_sort.py)(Merge sort) | [Accepted, Runtime: 92 ms][9] | |
-| - | [Click here](/python/median_of_sorted_arrays/binary_search.py)(Binary search) | [Accepted, Runtime: 368 ms][8] | |
-| [Longest Substring Without Repeating Characters][5] | [Click here](/python/longest_substring_without_repeat_char.py) | [Accepted, Runtime: 119 ms][6] | |
-| [Add Two Numbers][3] | [Click here](/python/add_two_numbers.py) | [Accepted, Runtime: 109 ms][4] | |
-
-## Java
-
-| Problem | My solution | Submission status | Reference |
-|:--------|:------------|:------------------|:---------:|
-| [Remove Element][31] | [Click here](/java/RemoveElement/MainClass.java) | [Accepted, Runtime: 6ms][32] | |
-| [Remove Duplicates from Sorted Array][29] | [Click here](/java/RemoveDuplicatesFromSortedArray/MainClass.java) | [Accepted, Runtime: 6ms][30] | |
-| [Merge Two Sorted Lists][27] | [Click here](/java/MergeTwoSortedLists/MainClass.java) | [Accepted, Runtime: 13ms][28] | |
-| [Valid Parentheses][25] | [Click here](/java/ValidParentheses/MainClass.java) | [Accepted, Runtime: 5ms][26] | |
-| [Longest Common Prefix][23] | [Click here](/java/LongestCommonPrefix/MainClass.java) | [Accepted, Runtime: 14ms][24] | |
-| [Roman to Integer][21] | [Click here](/java/RomanToInteger/MainClass.java) | [Accepted, Runtime: 72 ms][22] | |
-| [Palindrome Number][19] | [Click here](/java/PalindromeNumber/Main.java) | [Accepted, Runtime: 96 ms][20] | |
-| [Reverse Integer][17] | [Click here](/java/ReverseInteger/MainClass.java) | [Accepted, Runtime: 31 ms][18] | |
-
+| Difficulty | No. | Problem Title | Submissions | Solutions |
+|:------------|:------------|:--------------|:-----------:|:----------|
+| Hard | 273 | [Integer to English Words][35] | [1][36] | [Python](/python/IntegerToEnglishWords.py) |
+| Hard | 39 | [Reverse Nodes in k-Group][39] | [1][40] | [Swift](/src/39/Solution.swift) |
+| Hard | 23 | [Merge k Sorted Lists][37] | [1][38] | [Swift](/src/23/Solution.swfit) |
+| Hard | 4 | [Median of Two Sorted Arrays][7] | [1][9], [2][8] | Python: [1](/python/median_of_sorted_arrays/merge_sort.py), [2](/python/median_of_sorted_arrays/binary_search.py) |
+| Medium | 1282 | [Group the People Given the Group Size They Belong To][48] | [1][49] | [Go](/src/1282/main.go) |
+| Medium | 287 | [Find the Duplicate Number][10] | [1][11], [2][12] | Python: [1](/python/find_the_duplicate_number/ans1.py), [2](/python/find_the_duplicate_number/ans2.py) |
+| Medium | 238 | [Product of Array Except Self][14] | [1][15] | [Python](/python/product_of_array_except_self.py) |
+| Medium | 15 | [3Sum][42] | [1][43] | [Go](/src/15/three-sum.go) |
+| Medium | 12 | [Integer to Roman][33] | [1][34] | [Python](/python/IntegerToRoman.py) |
+| Medium | 8 | [String to Integer][44] | [1][45] | [Go](/src/8/string-to-integer.go) |
+| Medium | 3 | [Longest Substring Without Repeating Characters][5] | [1][6] | [Python](/python/longest_substring_without_repeat_char.py) |
+| Medium | 2 | [Add Two Numbers][3] | [1][4] | [Python](/python/add_two_numbers.py) |
+| Easy | 1108 | [Defanging an IP Address][50] | [1][51] | [Go](/src/1108/main.go) |
+| Easy | 1029 | [Two City Scheduling][46] | [1][47] | [Go](/src/1029/solution.go) |
+| Easy | 27 | [Remove Element][31] | [1][32] | [Java](/java/RemoveElement/MainClass.java) |
+| Easy | 26 | [Remove Duplicates from Sorted Array][29] | [1][30] | [Java](/java/RemoveDuplicatesFromSortedArray/MainClass.java) |
+| Easy | 21 | [Merge Two Sorted Lists][27] | [1][28] | [Java](/java/MergeTwoSortedLists/MainClass.java) |
+| Easy | 20 | [Valid Parentheses][25] | [1][26] | [Java](/java/ValidParentheses/MainClass.java) |
+| Easy | 14 | [Longest Common Prefix][23] | [1][24] | [Java](/java/LongestCommonPrefix/MainClass.java) |
+| Easy | 13 | [Roman to Integer][21] | [1][22] | [Java](/java/RomanToInteger/MainClass.java) |
+| Easy | 9 | [Palindrome Number][19] | [1][20] | [Java](/java/PalindromeNumber/Main.java) |
+| Easy | 7 | [Reverse Integer][17] | [1][18] | [Java](/java/ReverseInteger/MainClass.java) |
+| Easy | 1 | [Two Sum][1] | [1][41], [2][2] | [Go](/src/1/two-sum.go), [Python](/python/two_sum.py) |
 
 ---
 
 ### Unfinished
 
 - [Freedom Trail](/python/FreedomTrail.py)
+- [Minimum Window Substring](/src/76/main.py)
 
 [51]: https://leetcode.com/submissions/detail/316714013/
 [50]: https://leetcode.com/problems/defanging-an-ip-address/
