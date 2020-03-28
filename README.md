@@ -1,12 +1,17 @@
 # My LeetCode Solutions
 
+- [Group the People Given the Group Size They Belong To][48]
+  - **Go**: [src](/src/1282/main.go), [submission][49]
+- [Defanging an IP Address][50]
+  - **Go**: [src](/src/1108/main.go), [submission][51]
 - [Merge k Sorted Lists][37]:
   - Swift: [src](/src/23/Solution.swfit), [submission][38]
 - [Reverse Nodes in k-Group][39]:
   - **Swift**: [src](/src/39/Solution.swift), [submission][40]
 - [String to Integer][44]:
   - **Go**: [src](/src/8/string-to-integer.go), [submission][45]
-- [Two City Scheduling][]
+- [Two City Scheduling][46]:
+  - **Go**: [src](/src/1029/solution.go), [submission][47]
 - [Two Sum][1]:
   - **Go**: [src](/src/1/two-sum.go), [submission][41]
   - Python: [src](/python/two_sum.py), [submission][2]
@@ -49,6 +54,12 @@
 
 - [Freedom Trail](/python/FreedomTrail.py)
 
+[51]: https://leetcode.com/submissions/detail/316714013/
+[50]: https://leetcode.com/problems/defanging-an-ip-address/
+[49]: https://leetcode.com/submissions/detail/316725991/
+[48]: https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
+[47]: https://leetcode.com/submissions/detail/225252431/
+[46]: https://leetcode.com/problems/two-city-scheduling/
 [45]: https://leetcode.com/submissions/detail/224429086/
 [44]: https://leetcode.com/problems/string-to-integer-atoi/
 [43]: https://leetcode.com/submissions/detail/223938796/
