@@ -3,6 +3,7 @@
 
 | Difficulty | No. | Problem Title | Submissions | Solutions |
 |:------------|:------------|:--------------|:-----------:|:----------|
+| Hard | 295 | [Find Median from Data Stream][52] | [1][53] | [Go](/src/295/main.go) |
 | Hard | 273 | [Integer to English Words][35] | [1][36] | [Python](/python/IntegerToEnglishWords.py) |
 | Hard | 39 | [Reverse Nodes in k-Group][39] | [1][40] | [Swift](/src/39/Solution.swift) |
 | Hard | 23 | [Merge k Sorted Lists][37] | [1][38] | [Swift](/src/23/Solution.swfit) |
@@ -34,6 +35,8 @@
 - [Freedom Trail](/python/FreedomTrail.py)
 - [Minimum Window Substring](/src/76/main.py)
 
+[53]: https://leetcode.com/submissions/detail/321633819/
+[52]: https://leetcode.com/problems/find-median-from-data-stream/
 [51]: https://leetcode.com/submissions/detail/316714013/
 [50]: https://leetcode.com/problems/defanging-an-ip-address/
 [49]: https://leetcode.com/submissions/detail/316725991/
