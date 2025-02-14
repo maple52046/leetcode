@@ -17,6 +17,7 @@
 | Medium | 3 | [Longest Substring Without Repeating Characters][5] | [1][6] | [Python](/python/longest_substring_without_repeat_char.py) |
 | Medium | 2 | [Add Two Numbers][3] | [1][4] | [Python](/python/add_two_numbers.py) |
 | Easy | 1108 | [Defanging an IP Address][50] | [1][51] | [Go](/src/1108/main.go) |
+| Easy | 1046 | [Last Stone Weight][54] | [1][55] | [Go](/src/1046/main.go) |
 | Easy | 1029 | [Two City Scheduling][46] | [1][47] | [Go](/src/1029/solution.go) |
 | Easy | 27 | [Remove Element][31] | [1][32] | [Java](/java/RemoveElement/MainClass.java) |
 | Easy | 26 | [Remove Duplicates from Sorted Array][29] | [1][30] | [Java](/java/RemoveDuplicatesFromSortedArray/MainClass.java) |
@@ -35,6 +36,8 @@
 - [Freedom Trail](/python/FreedomTrail.py)
 - [Minimum Window Substring](/src/76/main.py)
 
+[55]: https://leetcode.com/submissions/detail/1542648002/
+[54]: https://leetcode.com/problems/last-stone-weight/
 [53]: https://leetcode.com/submissions/detail/321633819/
 [52]: https://leetcode.com/problems/find-median-from-data-stream/
 [51]: https://leetcode.com/submissions/detail/316714013/
