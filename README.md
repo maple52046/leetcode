@@ -8,6 +8,7 @@
 | Hard | 23 | [Merge k Sorted Lists][37] | [1][38] | [Swift](/swift/23.swfit) |
 | Hard | 4 | [Median of Two Sorted Arrays][7] | [1][9], [2][8] | Python: [1](/python/median_of_sorted_arrays/merge_sort.py), [2](/python/median_of_sorted_arrays/binary_search.py) |
 | Medium | 1282 | [Group the People Given the Group Size They Belong To][48] | [1][49] | [Go](/go/groupthepeople/solution.go) |
+| Medium | 973 | [K Closest Points to Origin][56] | [1][57] | [Go](/go/kclosest/solution.go) |
 | Medium | 287 | [Find the Duplicate Number][10] | [1][11], [2][12] | Python: [1](/python/find_the_duplicate_number/ans1.py), [2](/python/find_the_duplicate_number/ans2.py) |
 | Medium | 238 | [Product of Array Except Self][14] | [1][15] | [Python](/python/product_of_array_except_self.py) |
 | Medium | 15 | [3Sum][42] | [1][43] | [Go](/src/15/three-sum.go) |
@@ -35,6 +36,8 @@
 - [Freedom Trail](/python/FreedomTrail.py)
 - [Minimum Window Substring](/python/min_window.py)
 
+[57]: https://leetcode.com/submissions/detail/1543938726/
+[56]: https://leetcode.com/problems/k-closest-points-to-origin/
 [55]: https://leetcode.com/submissions/detail/1542648002/
 [54]: https://leetcode.com/problems/last-stone-weight/
 [53]: https://leetcode.com/submissions/detail/321633819/
