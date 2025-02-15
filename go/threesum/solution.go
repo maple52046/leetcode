@@ -1,4 +1,4 @@
-package main
+package threesum
 
 import (
 	"fmt"
@@ -22,7 +22,7 @@ func twoSum(nums []int, start int, target int, ans [][]int) [][]int {
 	for i := start; i < len(nums); i++ {
 		complement := target - nums[i]
 		j, ok := data_map[nums[i]]
-		if (ok) {
+		if ok {
 			data := []int{nums[start-1], nums[i], nums[j]}
 			sort.Ints(data)
 			ans = insert(ans, data)
@@ -41,7 +41,7 @@ func insert(ans [][]int, data []int) [][]int {
 		fmt.Println(i)
 		match = true
 		for j := 0; j < len(ans[i]); j++ {
-			if data[j] != ans[i][j]{
+			if data[j] != ans[i][j] {
 				match = false
 				break
 			}
@@ -53,9 +53,4 @@ func insert(ans [][]int, data []int) [][]int {
 	}
 
 	return ans
-}
-
-func main() {
-	var data = []int {-1, 0, 1, 2, -1, -4}
-	fmt.Println(threeSum(data))
 }

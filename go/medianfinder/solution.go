@@ -1,8 +1,4 @@
-package main
-
-import (
-	"fmt"
-)
+package medianfinder
 
 type MedianFinder struct {
 	Data []int
@@ -42,7 +38,7 @@ func (this *MedianFinder) FindMedian() float64 {
 	}
 
 	m = length / 2
-	return float64((this.Data[m-1] + this.Data[m]))/2
+	return float64((this.Data[m-1] + this.Data[m])) / 2
 }
 
 /**
@@ -51,16 +47,3 @@ func (this *MedianFinder) FindMedian() float64 {
  * obj.AddNum(num);
  * param_2 := obj.FindMedian();
  */
-
-func main() {
-	obj := Constructor()
-	obj.AddNum(-1)
-	obj.AddNum(-2)
-	fmt.Println(obj.FindMedian())
-	obj.AddNum(-3)
-	obj.AddNum(-4)
-	obj.AddNum(-5)
-	// obj.AddNum(0)
-	// obj.AddNum(0)
-	fmt.Println(obj.FindMedian())
-}

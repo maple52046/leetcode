@@ -1,4 +1,4 @@
-package main
+package twosum
 
 import "fmt"
 
@@ -10,7 +10,7 @@ func twoSum(nums []int, target int) []int {
 	for i = 0; i < len(nums); i++ {
 		complement = target - nums[i]
 		j, ok = data_map[nums[i]]
-		if (ok) {
+		if ok {
 			break
 		} else {
 			data_map[complement] = i
@@ -18,11 +18,5 @@ func twoSum(nums []int, target int) []int {
 		}
 	}
 
-	return []int {j, i}
-}
-
-func main() {
-	var data = []int {3, 2, 4}
-	var target int = 6
-	fmt.Println(twoSum(data, target))
+	return []int{j, i}
 }
