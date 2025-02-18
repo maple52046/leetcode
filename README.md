@@ -8,17 +8,19 @@
 | Hard | 23 | [Merge k Sorted Lists][37] | [1][38] | [Swift](/swift/23.swfit) |
 | Hard | 4 | [Median of Two Sorted Arrays][7] | [1][9], [2][8] | Python: [1](/python/median_of_sorted_arrays/merge_sort.py), [2](/python/median_of_sorted_arrays/binary_search.py) |
 | Medium | 1282 | [Group the People Given the Group Size They Belong To][48] | [1][49] | [Go](/go/groupthepeople/solution.go) |
-| Medium | 973 | [K Closest Points to Origin][56] | [1][57] | [Go](/go/kclosest/solution.go) |
+| Medium | 973 | [K Closest Points to Origin][56] | [**1**][57] | [Go](/go/kclosest/solution.go) |
 | Medium | 287 | [Find the Duplicate Number][10] | [1][11], [2][12] | Python: [1](/python/find_the_duplicate_number/ans1.py), [2](/python/find_the_duplicate_number/ans2.py) |
 | Medium | 238 | [Product of Array Except Self][14] | [1][15] | [Python](/python/product_of_array_except_self.py) |
+| Medium | 56 | [Merge Intervals][58] | [**1**][59] | [Go](/go/mergeintervals/solution.go) |
 | Medium | 15 | [3Sum][42] | [1][43] | [Go](/src/15/three-sum.go) |
 | Medium | 12 | [Integer to Roman][33] | [1][34] | [Python](/python/IntegerToRoman.py) |
 | Medium | 8 | [String to Integer][44] | [1][45] | [Go](/go/myatoi/solution.go) |
 | Medium | 3 | [Longest Substring Without Repeating Characters][5] | [1][6] | [Python](/python/longest_substring_without_repeat_char.py) |
 | Medium | 2 | [Add Two Numbers][3] | [1][4] | [Python](/python/add_two_numbers.py) |
 | Easy | 1108 | [Defanging an IP Address][50] | [1][51] | [Go](/go/defangipaddr/solution.go) |
-| Easy | 1046 | [Last Stone Weight][54] | [1][55] | [Go](/go/laststoneweight/solution.go) |
+| Easy | 1046 | [Last Stone Weight][54] | [1][55] | [**Go**](/go/laststoneweight/solution.go) |
 | Easy | 1029 | [Two City Scheduling][46] | [1][47] | [Go](/go/twocityschedcost/solution.go) |
+| Easy | 169 | [Majority Element][60] | [1][61] | [Go](/go/majorityelement/solution.go) |
 | Easy | 27 | [Remove Element][31] | [1][32] | [Java](/java/RemoveElement/MainClass.java) |
 | Easy | 26 | [Remove Duplicates from Sorted Array][29] | [1][30] | [Java](/java/RemoveDuplicatesFromSortedArray/MainClass.java) |
 | Easy | 21 | [Merge Two Sorted Lists][27] | [1][28] | [Java](/java/MergeTwoSortedLists/MainClass.java) |
@@ -36,6 +38,10 @@
 - [Freedom Trail](/python/FreedomTrail.py)
 - [Minimum Window Substring](/python/min_window.py)
 
+[61]: https://leetcode.com/submissions/detail/1546057561
+[60]: https://leetcode.com/problems/majority-element/
+[59]: https://leetcode.com/submissions/detail/1546868391
+[58]: https://leetcode.com/problems/merge-intervals/
 [57]: https://leetcode.com/submissions/detail/1543938726/
 [56]: https://leetcode.com/problems/k-closest-points-to-origin/
 [55]: https://leetcode.com/submissions/detail/1542648002/
